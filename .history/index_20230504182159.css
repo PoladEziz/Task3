@@ -2,8 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
 .main{
-    background-color:green;
+    background-color:yellow;
     min-height: 100vh;
     padding: 200px;
 }

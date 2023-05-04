@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background-color: aqua;
+    min-height: 100vh;
+    padding: 200px;
+}
+.child{
+    width: 100%;
+    height: ;
+}

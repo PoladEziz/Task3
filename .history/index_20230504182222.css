@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    
+    background-color:green;
+    min-height: 100vh;
+    padding: 200px;
+}
+.child{
+    width: 100%;
+    height: 400px;
+    background-color: violet;
+}
